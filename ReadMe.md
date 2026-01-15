@@ -1,5 +1,7 @@
 # About Me:
-I’m Rob, a sports data analyst with experience in Python, R, SQL, and sports-intelligence platforms.<br>I’m currently completing an MSc in Data Analytics (Sport) at TUD, and a large portion of the work showcased here comes from my academic projects in sports analytics.<br><br>I also work with Blue Martini Group as Head of Data Analytics, where I analyse performance dashboards, produce weekly and daily reporting templates, generate charts and metrics, and support the CEO in developing insights and data-driven decisions for multiple UK & Irish venues.
+I’m Rob, a sports data analyst focused on turning data into practical insights using Python, R, SQL, and sports intelligence platforms. I’m currently completing an MSc in Data Analytics (Sport) at TU Dublin, with many of the projects on this profile drawn from my academic work in sports analytics.
+
+I also work as Head of Data Analytics at Blue Martini Group, where I analyse performance data, develop reporting dashboards and templates, and support senior decision making across multiple UK and Irish venues.
 
 
 ## Socials:
